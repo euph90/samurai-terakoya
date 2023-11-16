@@ -1,2 +1,0 @@
-hoge
-hoge 2nd Line
